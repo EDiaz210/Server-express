@@ -2,6 +2,8 @@
 
 Este proyecto es parte de un taller introductorio al desarrollo backend con Node.js y el framework Express. Se construyó un servidor web básico que responde con un mensaje de bienvenida al acceder a la ruta raíz (`/`).
 
+![Imagen de WhatsApp 2025-05-12 a las 21 41 48_8b073b33](https://github.com/user-attachments/assets/3cd1bc4f-071c-4383-ab98-bfe616482fab)
+
 ## 📦 Requisitos
 
 - Node.js (v14 o superior)
